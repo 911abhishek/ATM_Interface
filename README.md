@@ -25,7 +25,7 @@ This is a simple Java-based ATM Interface application that simulates real-world 
 ## Requirements
 - Java JDK (>= 8)
 
-## Screenshots
+## Key Features
 Here are some screenshots of the program in action:
 - Login screen
 - Main menu options
